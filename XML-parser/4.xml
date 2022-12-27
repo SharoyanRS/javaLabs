@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<product>
+<name>Banana</name>
+<description>про-во Мадагаскар.</description>
+<type>Еда</type>
+<price var="75"/>
+<quantity var="50"/>
+</product>
